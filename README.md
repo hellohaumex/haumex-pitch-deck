@@ -12,7 +12,7 @@ We transform fragmented **knowledge, documents, workflows, and operational data*
 
 ---
 
-## 🚀 The Problem
+## The Problem
 
 Businesses across Africa increasingly depend on digital information and software, yet critical operations remain fragmented across:
 
@@ -37,7 +37,7 @@ Generic AI tools can generate answers, but they often lack the **organizational 
 
 ---
 
-# 💡 Our Solution
+## Our Solution
 
 Haumex AI builds **AI-native systems that connect an organization's knowledge, software, and workflows to intelligent agents.**
 
@@ -61,9 +61,9 @@ Modern software platforms that integrate AI directly into business operations in
 
 ---
 
-# 🧠 Product Vision
+## Product Vision
 
-## Haumex AI Core
+### Haumex AI Core
 
 Haumex AI Core is envisioned as an **intelligence layer that organizations can adapt to their own operations.**
 
@@ -85,7 +85,7 @@ The goal is simple:
 
 ---
 
-# 🌍 Why Now
+## Why Now
 
 AI models are rapidly becoming capable of useful reasoning, generation, multimodal interaction, and tool use.
 
@@ -99,11 +99,11 @@ Haumex AI is focused on building that applied-AI infrastructure.
 
 ---
 
-# ⚙️ Technical Foundation
+## Technical Foundation
 
 Haumex AI is being built around practical applied-AI infrastructure.
 
-### AI & Models
+### AI and Models
 
 * Large Language Models
 * Retrieval-Augmented Generation (RAG)
@@ -125,7 +125,7 @@ Haumex AI is being built around practical applied-AI infrastructure.
 * Real-time streaming
 * Modular application architecture
 
-### Data & Infrastructure
+### Data and Infrastructure
 
 * MongoDB
 * PostgreSQL
@@ -139,15 +139,15 @@ Our next stage is focused on strengthening the AI-native architecture, evaluatin
 
 ---
 
-# 🏢 Who We Build For
+## Who We Build For
 
 Haumex AI is designed for organizations that have valuable information and workflows but need better ways to access, automate, and operationalize them.
 
-### Growing Businesses & Enterprises
+### Growing Businesses and Enterprises
 
 Organizations managing large volumes of documents, operational information, and repetitive processes.
 
-### Professional & Knowledge-Intensive Teams
+### Professional and Knowledge-Intensive Teams
 
 Teams that need fast, accurate access to internal knowledge and decision-support systems.
 
@@ -161,7 +161,7 @@ Organizations seeking practical AI adoption without having to build a complete i
 
 ---
 
-# 🧩 What Haumex AI Builds
+## What Haumex AI Builds
 
 Our broader product and engineering capabilities include:
 
@@ -180,7 +180,7 @@ Our broader product and engineering capabilities include:
 
 ---
 
-# 📈 Current Capabilities
+## Current Capabilities
 
 Haumex AI's broader platform and engineering work includes:
 
@@ -197,7 +197,7 @@ Haumex AI's broader platform and engineering work includes:
 
 ---
 
-# 🇰🇪 Why Google Africa Applied AI Lab
+## Why Google Africa Applied AI Lab
 
 Haumex AI is applying to the **Google Africa Applied AI Lab** to accelerate the transition from individual AI prototypes into a robust, scalable AI-native platform.
 
@@ -225,25 +225,25 @@ Develop reusable AI infrastructure capable of supporting multiple organizations 
 
 ---
 
-# 🛠️ What We Plan to Build Next
+## What We Plan to Build Next
 
-## 01 — Intelligence
+### 01 — Intelligence
 
 Improve retrieval, reasoning, semantic understanding, and organizational context so AI responses become more accurate, relevant, and actionable.
 
-## 02 — Action
+### 02 — Action
 
 Move beyond answering questions toward executing controlled, multi-step workflows through APIs, business tools, and existing organizational systems.
 
-## 03 — Scale
+### 03 — Scale
 
 Package core capabilities into reusable, secure AI-native products that can support organizations across Africa and beyond.
 
 ---
 
-# 👨🏾‍💻 Founder
+## Founder
 
-## Eric Mwaniki Munyi
+### Eric Mwaniki Munyi
 
 **Founder — Haumex AI**
 
@@ -268,7 +268,7 @@ The focus is on translating modern AI capabilities into **useful products and op
 
 ---
 
-# 🚀 Current Stage
+## Current Stage
 
 Haumex AI is currently focused on refining its product architecture, strengthening working prototypes, expanding its applied-AI capabilities, and validating the highest-value use cases for scalable deployment.
 
@@ -276,23 +276,23 @@ Our immediate objective is to turn the underlying AI infrastructure into robust,
 
 ---
 
-# 🌐 Company
+## Company
 
 **HAUMEX AI**
 
 **Building intelligent AI systems, autonomous agents, and enterprise automation solutions.**
 
-📍 Mombasa, Kenya
+**Mombasa, Kenya**
 
-📧 [hello.haumex@gmail.com](mailto:hello.haumex@gmail.com)
+**Email:** [hello.haumex@gmail.com](mailto:hello.haumex@gmail.com)
 
-🌐 https://haumex-ai.onrender.com/
+**Website:** https://haumex-ai.onrender.com/
 
 ---
 
-# 🎯 Our Vision
+## Our Vision
 
-## From fragmented information to intelligent operations.
+### From fragmented information to intelligent operations.
 
 Haumex AI is building the applied-AI infrastructure and products that help organizations move from disconnected knowledge and manual workflows to **AI-native operations.**
 
